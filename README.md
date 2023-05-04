@@ -13,8 +13,9 @@
 +  User should be able to send direct messages to other users, just like internet messengers.
 
 *Value Added service:*
-
-
++ Google Auth
++ Email OTP verification
++ Message storing in chats DATEWISE
 
 *Team Members:* Shrijit Jha, Achyut Shukla, Md Asad Ansari, Shubham Patel, Zeeshan Tandel, Pratham Talekar, Om Kamble
 
@@ -22,3 +23,8 @@
 
 + FrontEnd: VueJS
 + BackEnd: NodeJS, MongoDB.
+
+*Distribution:*
++ FrontEnd - Zeeshan Tandel, Pratham Talekar, Asad Ansari
++ Integration - Om Kamble, Shubham Patel
++ BackEnd - Achyut Shukla, Shrijit Jha
