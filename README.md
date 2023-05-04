@@ -19,5 +19,6 @@
 *Team Members:* Shrijit Jha, Achyut Shukla, Md Asad Ansari, Shubham Patel, Zeeshan Tandel, Pratham Talekar, Om Kamble
 
 *Stack:*
-FrontEnd: VueJS
-BackEnd: NodeJS, MongoDB.
+
++ FrontEnd: VueJS
++ BackEnd: NodeJS, MongoDB.
