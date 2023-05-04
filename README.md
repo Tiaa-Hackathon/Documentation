@@ -2,7 +2,7 @@
 
 ## Topic - A website or app like "Quora"
 
-*Requirements: *
+*Requirements:*
 
 +  User interface for users to register.
 +  User should be able to create posts with max character limit of 2000.
@@ -12,7 +12,7 @@
 +  Users should be able to tag other users in responses.
 +  User should be able to send direct messages to other users, just like internet messengers.
 
-*Value Added section: *
+*Value Added section:*
 
 
 
