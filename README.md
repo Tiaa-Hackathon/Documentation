@@ -12,8 +12,12 @@
 +  Users should be able to tag other users in responses.
 +  User should be able to send direct messages to other users, just like internet messengers.
 
-*Value Added section:*
+*Value Added service:*
 
 
 
 *Team Members:* Shrijit Jha, Achyut Shukla, Md Asad Ansari, Shubham Patel, Zeeshan Tandel, Pratham Talekar, Om Kamble
+
+*Stack:*
+FrontEnd: VueJS
+BackEnd: NodeJS, MongoDB.
