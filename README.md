@@ -16,4 +16,4 @@
 
 
 
-*Team Members: * Shrijit Jha, Achyut Shukla, Md Asad Ansari, Shubham Patel, Zeeshan Tandel, Pratham Talekar, Om Kamble
+*Team Members:* Shrijit Jha, Achyut Shukla, Md Asad Ansari, Shubham Patel, Zeeshan Tandel, Pratham Talekar, Om Kamble
